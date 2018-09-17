@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <EditTextPreference
+        android:defaultValue="@string/keyword_default"
+        android:inputType="text"
+        android:key="@string/keyword_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/keyword_label" />
+
+    <EditTextPreference
+        android:defaultValue="@string/date_default"
+        android:inputType="date"
+        android:key="@string/date_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/date_label" />
+
+</PreferenceScreen>

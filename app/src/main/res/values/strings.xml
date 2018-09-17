@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Report</string>
+    <string name="settings_title">Settings</string>
+    <string name="no_posts">No Posts found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="menu_title">News Settings</string>
+
+    <string name="keyword_label">Keyword</string>
+    <string name="keyword_key" translatable="false">money</string>
+    <string name="keyword_default" translatable="false">money</string>
+
+    <string name="date_label">Date</string>
+    <string name="date_key" translatable="false">2014-01-01</string>
+    <string name="date_default" translatable="false">2014-01-01</string>
+
+
+</resources>

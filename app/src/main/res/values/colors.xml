@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#e91e63</color>
+    <color name="colorPrimaryDark">#b0003a</color>
+    <color name="colorAccent">#2196f3</color>
+    <color name="textColorPostSection">#B4BAC0</color>
+    <color name="textColorPostName">#000000</color>
+    <color name="textColorPostDate">#aaaaaa</color>
+</resources>
